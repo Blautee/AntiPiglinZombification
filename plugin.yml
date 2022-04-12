@@ -1,0 +1,6 @@
+name: AntiPiglinZombification
+version: 0.9
+author: Blautee
+api-version: 1.17
+
+main: de.trebtee.apz.main.Main
